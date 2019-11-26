@@ -1,0 +1,159 @@
+body {
+  margin: 0 0 0;
+  background-color: #e4cabd;
+  text-align: center;
+}
+hr {
+  border: dotted #667e27 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+h1.name {
+  margin: auto;
+  font-size: 6.66vw;
+  width: 39%;
+  position: absolute;
+  top: 35%;
+  left: 31.2%;
+  color: #f2f2f2;
+  font-family: 'Dancing Script', cursive;
+}
+h2.greeting {
+  margin: auto;
+  font-size: 5vw;
+  width: 20%;
+  position: absolute;
+  top: 15%;
+  left: 23.4%;
+  color: #f2f2f2;
+  font-family: 'Dancing Script', cursive;
+}
+h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+a {
+  color: #31537d;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EAF6f6
+}
+li {
+  margin: 0 30px 0 10px;
+}
+p {
+  font-family: 'Lora', serif;
+}
+.top-section {
+  padding: 50px 0;
+  background-color: #31537a;
+  position: relative;
+}
+.middle-section {
+  margin: 100px;
+}
+.bottom-section {
+  padding: 20px 0 10px;
+  background-color: #31537c;
+}
+.me {
+  width: 75%;
+  margin: auto;
+}
+.skill-row {
+  width: 75%;
+  margin: 50px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.sites{
+  width: 80%;
+  margin: auto;
+}
+.nameplate {
+  width: 70.3%;
+  margin: 50px auto 80px;
+  /* position: absolute;
+  top: 110px;
+  left: 110px; */
+}
+.tall-flower {
+  width: 15.6%;
+  position: absolute;
+  top: 37.5%;
+  left: 16.4%;
+}
+.full-flower {
+  margin: -180px auto;
+  width: 31.25%;
+  /* position: absolute;
+  top: 400px;
+  left: 450px; */
+}
+.flower-bunch {
+  width: 23.44%;
+  position: absolute;
+  top: 11.3%;
+  left: 65.3%;
+}
+.selfie {
+  margin: auto;
+  width: 31.25%;
+}
+
+.con-vs {
+  width: 18%;
+  position: absolute;
+  top: 150%;
+  left: 81.3%;
+}
+.gold-hearts {
+  width: 18%;
+  position: absolute;
+  top: 210%;
+  left: 1%;
+}
+
+.img-skill-first {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+.img-skill-second {
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.big-flower {
+  margin: -40px auto 5px;
+  height: 50%;
+  width: 31.25%;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #9fb4d6 5%, #595b80 100%);
+	background-color:#9fb4d6;
+	border-radius:10px;
+	border:1px solid #ffde7d;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:19px;
+  margin-top: 50px;
+	padding:9px 49px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #595b80 5%, #9fb4d6 100%);
+	background-color:#595b80;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
