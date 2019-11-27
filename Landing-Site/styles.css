@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #F9F0D7;
+}
+header {
+  background-color: #000000;
+  color: #FFFFFF;
+  margin-top: 25px;
+}
+footer {
+  background-color: #000000;
+  color: #FFFFFF;
+  margin-top: 0;
+}
+h1, h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+p {
+  font-family: 'Peddana', serif;
+}
+.app-row {
+  width: 65%;
+  margin: 50px auto 100px;
+  text-align: left;
+  line-height: 2;
+}
+.icon {
+  width: 45%;
+  margin: auto;
+}
+.img-app-first {
+  float: left;
+  width: 45%;
+  margin-right: 30px;
+}
+.img-app-second {
+  float: right;
+  width: 45%;
+  margin-left: 30px;
+}
